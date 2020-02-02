@@ -12,6 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "canvas-sketch": "^0.7.1",
-    "canvas-sketch-util": "^1.10.0"
+    "canvas-sketch-util": "^1.10.0",
+    "dat.gui": "^0.7.6",
+    "preact": "^10.2.1"
   }
 }
